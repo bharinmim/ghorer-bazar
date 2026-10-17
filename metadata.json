@@ -1,0 +1,6 @@
+{
+  "name": "Ghorer Bazar - Pure Organic Food & Agro E-Commerce",
+  "description": "Authentic organic and chemical-free Bangladeshi agro products with real-time inventory, gamified loyalty rewards, bKash/Nagad/Card checkout, and RBAC admin studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
